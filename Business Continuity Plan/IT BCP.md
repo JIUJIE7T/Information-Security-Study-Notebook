@@ -1,4 +1,4 @@
-# Business Continuity Plan
+# Business Continuity Plan (Modifying)
 BCP stands for Business continuity plan, which is call 事業継続計画 in Japanese, it refers to the plan for business when disaster and other unpredictable event happens.
 
 The BCP usually contains 
@@ -68,10 +68,5 @@ Here are several guidelines from Japanese government
   - IT system conponents(Member)
   - Correlation between IT system and business
   - Prediction of recovery from disaster
-
-
-Principles of Backup sites
-
-Recovery Time Objective
-
-Revocery Time Actual
+  
+  To be continued
