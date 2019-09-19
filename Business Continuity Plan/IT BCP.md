@@ -37,9 +37,12 @@ It is hard to determine whether the BCP should be invoked or not.
 When BCP is completely invoked, replacement of each system will be used. However, this will not be enough for completely prevent the hazard. for the reason of the hazard has not been detected, second time damage is not avoidable.
 
 ##### 3. Recovery phase(復旧フェース)
-The phase that the system is recoverying and cause of incident is designagted.
+The phase that the system is recoverying and cause/reason of incident is designagted.
+Recovery plan is mainly focus on system recovery/restart
 
 ##### 4. Returning phase(復帰フェース)
+The phase that recovery is finished and prevention of reoccurrence is designed an implemented.
+This phase focuses more on prevention for the same incident.
 
 #### CSIRT
  CSIRT is a group/team to invest the causes and to prevent second harassment/damage from incident.
