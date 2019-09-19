@@ -22,7 +22,7 @@ IT-BCP is necessary for it keeps the complicity of BCP. If there is conflicts be
  - Replacement or Remote work
  - BCP contact system
  - Internal CSIRT (Computer Security Incident Response Team)
-#### BCP contact system
+#### BCP invoking flow
 https://www.nec-solutioninnovators.co.jp/sl/bcp/series/images/img-itbcp_fig_3.png
 
 refering to the picture and Japanese rules there are four phases when IT-BCP happens
