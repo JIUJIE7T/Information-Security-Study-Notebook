@@ -23,7 +23,26 @@ IT-BCP is necessary for it keeps the complicity of BCP. If there is conflicts be
  - BCP contact system
  - Internal CSIRT (Computer Security Incident Response Team)
 #### BCP contact system
+https://www.nec-solutioninnovators.co.jp/sl/bcp/series/images/img-itbcp_fig_3.png
 
+refering to the picture and Japanese rules there are four phases when IT-BCP happens
+##### Deserve period
+when cyber incident is deserved, depending on the contents there is a possibility to lately catch severe incident.
+The Capacity of the sytem might go slight down, or completely keep stable.
+##### 1. BCP invoke
+when BCP is invoked, the capacity of the system goes dramatically down, or even stops. 
+It is hard to determine whether the BCP should be invoked or not.
+
+##### 2. Starting phase
+When BCP is completely invoked, replacement of each system will be used. However, this will not be enough for completely prevent the hazard. for the reason of the hazard has not been detected, second time damage is not avoidable.
+
+##### 3. Recovery phase(復旧フェース)
+Ambiguous Item
+##### 4. Returning phase(復帰フェース)
+Ambiguous Item
+
+#### CSIRT
+ CSIRT is a group/team to invest the causes and to prevent second harassment/damage from incident.
 
 ## Means to succeed an IT-BCP
 
