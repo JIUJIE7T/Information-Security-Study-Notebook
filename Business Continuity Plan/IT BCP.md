@@ -53,7 +53,9 @@ This phase focuses more on prevention for the same incident.
 ## Means to succeed an IT-BCP
 
 ### refer to guideline
+Here are several guidelines from Japanese government
 
+- [IT サービス継続ガイドライン｜経済産業省](https://www.meti.go.jp/policy/netsecurity/downloadfiles/itsc_gl.pdf)
 ### Visiblize Business Recovery Plan
   Visiblize and ascertain the following items
   - Person/group in charge of each system
