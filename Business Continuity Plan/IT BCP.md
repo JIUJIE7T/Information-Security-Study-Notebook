@@ -56,6 +56,11 @@ This phase focuses more on prevention for the same incident.
 Here are several guidelines from Japanese government
 
 - [IT サービス継続ガイドライン｜経済産業省](https://www.meti.go.jp/policy/netsecurity/downloadfiles/itsc_gl.pdf)
+- [サイバーセキュリティ経営ガイドライン｜経済産業省](http://warp.da.ndl.go.jp/info:ndljp/pid/10977616/www.meti.go.jp/policy/netsecurity/mng_guide.html)
+- [重要インフラにおける情報セキュリティ確保に係る安全基準等策定指針｜サイバーセキュリティ戦略本部] (https://www.nisc.go.jp/active/infra/pdf/shishin4.pdf)
+- [中央省庁における情報システム運用継続計画ガイドライン｜内閣官房情報セキュリティセンター](https://www.nisc.go.jp/active/general/pdf/itbcp1-1_2.pdf)
+- [IT-BCP 策定モデル｜内閣官房情報セキュリティセンター] (https://www.nisc.go.jp/active/general/pdf/IT-BCP.pdf)
+- [事業継続ガイドライン 第三版｜内閣府](http://www.bousai.go.jp/kyoiku/kigyou/keizoku/pdf/guideline03.pdf)
 ### Visiblize Business Recovery Plan
   Visiblize and ascertain the following items
   - Person/group in charge of each system
