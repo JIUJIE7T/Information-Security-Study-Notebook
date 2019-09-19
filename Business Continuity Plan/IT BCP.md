@@ -22,7 +22,7 @@ IT-BCP is necessary for it keeps the complicity of BCP. If there is conflicts be
  - Replacement or Remote work
  - BCP contact system
  - Internal CSIRT (Computer Security Incident Response Team)
-#### BCP invoking flow
+#### BCP invoking flow (Graph being modified)
 This graph is refering [第7回 サイバー攻撃に備えたIT-BCPの構築(前編)](https://www.nec-solutioninnovators.co.jp/sl/bcp/series/itbcp.html)
 
 
